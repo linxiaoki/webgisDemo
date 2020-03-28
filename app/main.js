@@ -1,4 +1,4 @@
 //main.js
-const {onLoad} = require('./app.js');
+const {onLoad_mobile} = require('./app.js');
 
-onLoad();
+onLoad_mobile();
